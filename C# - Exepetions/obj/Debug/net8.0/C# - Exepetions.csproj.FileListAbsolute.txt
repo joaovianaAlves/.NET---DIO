@@ -1,0 +1,14 @@
+E:\Projetos\C# - Exepetions\bin\Debug\net8.0\C# - Exepetions.exe
+E:\Projetos\C# - Exepetions\bin\Debug\net8.0\C# - Exepetions.deps.json
+E:\Projetos\C# - Exepetions\bin\Debug\net8.0\C# - Exepetions.runtimeconfig.json
+E:\Projetos\C# - Exepetions\bin\Debug\net8.0\C# - Exepetions.dll
+E:\Projetos\C# - Exepetions\bin\Debug\net8.0\C# - Exepetions.pdb
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.AssemblyInfoInputs.cache
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.AssemblyInfo.cs
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.csproj.CoreCompileInputs.cache
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.dll
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\refint\C# - Exepetions.dll
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.pdb
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\C# - Exepetions.genruntimeconfig.cache
+E:\Projetos\C# - Exepetions\obj\Debug\net8.0\ref\C# - Exepetions.dll
