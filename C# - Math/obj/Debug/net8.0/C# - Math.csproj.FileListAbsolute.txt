@@ -1,0 +1,14 @@
+E:\Projetos\C# - Math\bin\Debug\net8.0\C# - Math.exe
+E:\Projetos\C# - Math\bin\Debug\net8.0\C# - Math.deps.json
+E:\Projetos\C# - Math\bin\Debug\net8.0\C# - Math.runtimeconfig.json
+E:\Projetos\C# - Math\bin\Debug\net8.0\C# - Math.dll
+E:\Projetos\C# - Math\bin\Debug\net8.0\C# - Math.pdb
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.AssemblyInfoInputs.cache
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.AssemblyInfo.cs
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.csproj.CoreCompileInputs.cache
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.dll
+E:\Projetos\C# - Math\obj\Debug\net8.0\refint\C# - Math.dll
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.pdb
+E:\Projetos\C# - Math\obj\Debug\net8.0\C# - Math.genruntimeconfig.cache
+E:\Projetos\C# - Math\obj\Debug\net8.0\ref\C# - Math.dll
