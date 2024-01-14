@@ -1,0 +1,14 @@
+C:\Projetos\C# - Tuples\bin\Debug\net8.0\C# - Tuples.exe
+C:\Projetos\C# - Tuples\bin\Debug\net8.0\C# - Tuples.deps.json
+C:\Projetos\C# - Tuples\bin\Debug\net8.0\C# - Tuples.runtimeconfig.json
+C:\Projetos\C# - Tuples\bin\Debug\net8.0\C# - Tuples.dll
+C:\Projetos\C# - Tuples\bin\Debug\net8.0\C# - Tuples.pdb
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.AssemblyInfoInputs.cache
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.AssemblyInfo.cs
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.csproj.CoreCompileInputs.cache
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.dll
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\refint\C# - Tuples.dll
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.pdb
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\C# - Tuples.genruntimeconfig.cache
+C:\Projetos\C# - Tuples\obj\Debug\net8.0\ref\C# - Tuples.dll
