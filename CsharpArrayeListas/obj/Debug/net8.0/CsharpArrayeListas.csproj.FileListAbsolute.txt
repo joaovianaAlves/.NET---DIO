@@ -1,0 +1,14 @@
+C:\Projetos\CsharpArrayeListas\bin\Debug\net8.0\CsharpArrayeListas.exe
+C:\Projetos\CsharpArrayeListas\bin\Debug\net8.0\CsharpArrayeListas.deps.json
+C:\Projetos\CsharpArrayeListas\bin\Debug\net8.0\CsharpArrayeListas.runtimeconfig.json
+C:\Projetos\CsharpArrayeListas\bin\Debug\net8.0\CsharpArrayeListas.dll
+C:\Projetos\CsharpArrayeListas\bin\Debug\net8.0\CsharpArrayeListas.pdb
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.AssemblyInfoInputs.cache
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.AssemblyInfo.cs
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.dll
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\refint\CsharpArrayeListas.dll
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.pdb
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\CsharpArrayeListas.genruntimeconfig.cache
+C:\Projetos\CsharpArrayeListas\obj\Debug\net8.0\ref\CsharpArrayeListas.dll
