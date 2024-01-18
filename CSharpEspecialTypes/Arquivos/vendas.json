@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material",
+    "Preco": 25.0,
+    "DataVenda": "2024-01-17T12:09:12.5677586-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Produto": "Material",
+    "Preco": 50.0,
+    "DataVenda": "2024-01-17T12:09:12.5677586-03:00",
+    "Desconto": 10
+  }
+]

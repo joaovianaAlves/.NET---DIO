@@ -1,0 +1,17 @@
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\CSharpEspecialTypes.exe
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\CSharpEspecialTypes.deps.json
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\CSharpEspecialTypes.runtimeconfig.json
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\CSharpEspecialTypes.dll
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\CSharpEspecialTypes.pdb
+E:\Projetos\CSharpEspecialTypes\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.csproj.AssemblyReference.cache
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.AssemblyInfoInputs.cache
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.AssemblyInfo.cs
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.csproj.CoreCompileInputs.cache
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.csproj.CopyComplete
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.dll
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\refint\CSharpEspecialTypes.dll
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.pdb
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\CSharpEspecialTypes.genruntimeconfig.cache
+E:\Projetos\CSharpEspecialTypes\obj\Debug\net8.0\ref\CSharpEspecialTypes.dll
